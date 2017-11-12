@@ -27,8 +27,8 @@
 ---
 
 - **ID :** 4
-- **Name :** jay
-- **Gender :** <M or F>
+- **Name :** jayj
+- **Gender :** M
 
 ---
 
