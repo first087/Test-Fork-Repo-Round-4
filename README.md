@@ -34,7 +34,7 @@
 
 - **ID :** 5
 - **Name :** Boat
-- **Gender :** <M or F>
+- **Gender :** M
 
 ---
 
@@ -117,8 +117,8 @@
 ---
 
 - **ID :** 19
-- **Name :** <name>
-- **Gender :** <M or F>
+- **Name :** Hello
+- **Gender :** M
 
 ---
 
