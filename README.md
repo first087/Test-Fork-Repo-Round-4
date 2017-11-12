@@ -39,7 +39,7 @@
 ---
 
 - **ID :** 6
-- **Name :** <name>
+- **Name :** <wit>
 - **Gender :** <M or F>
 
 ---
