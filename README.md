@@ -46,7 +46,7 @@
 
 - **ID :** 7
 - **Name :** MooHun
-- **Gender :** <M or F>
+- **Gender :** M
 
 ---
 
