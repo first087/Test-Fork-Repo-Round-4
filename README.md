@@ -21,7 +21,7 @@
 ---
 
 - **ID :** 3
-- **Name :** <name>
+- **Name :** Kantana
 - **Gender :** <M or F>
 
 ---
@@ -45,7 +45,7 @@
 ---
 
 - **ID :** 7
-- **Name :** <name>
+- **Name :** MooHun
 - **Gender :** <M or F>
 
 ---
