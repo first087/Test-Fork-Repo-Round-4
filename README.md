@@ -28,7 +28,7 @@
 
 - **ID :** 4
 - **Name :** jayj
-- **Gender :** <M or F>
+- **Gender :** M
 
 ---
 
