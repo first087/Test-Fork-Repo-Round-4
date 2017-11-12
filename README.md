@@ -10,7 +10,7 @@
 
 - **ID :** 1
 - **Name :** nics
-- **Gender :** MM
+- **Gender :** M
 
 ---
 
