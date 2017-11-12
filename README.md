@@ -16,7 +16,7 @@
 
 - **ID :** 2
 - **Name :** yim
-- **Gender :** <M or F>
+- **Gender :** M
 
 ---
 
