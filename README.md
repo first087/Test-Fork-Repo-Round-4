@@ -22,7 +22,7 @@
 
 - **ID :** 3
 - **Name :** Kantana
-- **Gender :** <M or F>
+- **Gender :** F
 
 ---
 
