@@ -9,8 +9,8 @@
 ---
 
 - **ID :** 1
-- **Name :** <name>
-- **Gender :** <M or F>
+- **Name :** nics
+- **Gender :** M
 
 ---
 
