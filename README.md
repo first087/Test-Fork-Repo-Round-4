@@ -117,8 +117,8 @@
 ---
 
 - **ID :** 19
-- **Name :** <name>
-- **Gender :** <M or F>
+- **Name :** Hello
+- **Gender :** M
 
 ---
 
