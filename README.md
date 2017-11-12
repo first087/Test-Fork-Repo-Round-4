@@ -9,8 +9,8 @@
 ---
 
 - **ID :** 1
-- **Name :** nics
-- **Gender :** M
+- **Name :** BugNics
+- **Gender :** Other
 
 ---
 
