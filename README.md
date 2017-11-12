@@ -34,7 +34,7 @@
 
 - **ID :** 5
 - **Name :** Boat
-- **Gender :** <M or F>
+- **Gender :** M
 
 ---
 
